@@ -20,7 +20,9 @@ Thank you for taking the time to read, I hope that when this is all done, that t
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [2018_year_of_AI](#2018_year_of_ai)
+- [Learning Resources](#learning-resources)
+- [Weekly reflections](#weekly-reflections)
+  - [Week 1](#week-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -33,12 +35,12 @@ Thank you for taking the time to read, I hope that when this is all done, that t
 ### Week 1
 January 3rd - 9th
 
-| Date          | Completed  |
-| ------------- | ---------- |
-| January 3rd   | ✅         |
-| January 4th   | ✅         |
-| January 5th   | ✅         |
-| January 6th   | ✅         |
-| January 7th   | ✅         |
-| January 8th   | ✅         |
-| January 9th   | ✅         |
+| Date          | ⭕  |
+| ------------- | --- |
+| January 3rd   | ✅   |
+| January 4th   | ✅   |
+| January 5th   | ✅   |
+| January 6th   | ✅   |
+| January 7th   | ✅   |
+| January 8th   | ✅   |
+| January 9th   | ✅   |
