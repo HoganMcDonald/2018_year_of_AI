@@ -17,4 +17,4 @@ This is a collection of equations and helpful notation hints for building an ML 
 
 ### Forward Propagation
 
-[Z linear](http://mathurl.com/y94aynqu.png)
+![Z linear](http://mathurl.com/y94aynqu.png)
