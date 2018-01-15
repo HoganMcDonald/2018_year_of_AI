@@ -15,6 +15,15 @@ This is a collection of equations and helpful notation hints for building an ML 
 
 ## Logistic Regression
 
-### Forward Propagation
+![notation](images/z9IX0wm.png)
 
-![Z linear](http://mathurl.com/y94aynqu.png)
+Where:
+
+- x = single input feature
+- X = full input feature vector
+- y = computation of single node
+- Y = result of full layer
+- Yhat = prediction for linear classification
+- l = current layer
+- n = number of features in a training example X.shape =  (n,m)
+- m = number of training examples
