@@ -84,4 +84,7 @@ A few questions that I have pertain to the effectiveness of pooling layers. I un
 
 I will be curious to see how they affect models as I do more hands on work.
 
-I also picked up the book *Data Science from Scratch* by Grus and am enjoying it so far. It is a good introductory volume on data science and is helping to fill in a lot of the holes in my compsci and math knowledge that will help me moving forward. 
+I also picked up the book *Data Science from Scratch* by Grus and am enjoying it so far. It is a good introductory volume on data science and is helping to fill in a lot of the holes in my compsci and math knowledge that will help me moving forward.
+
+### Week 3
+January 17th - 23rd
